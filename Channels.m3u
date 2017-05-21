@@ -1,153 +1,161 @@
- #EXTINF:-1,? ? _ ? ??USA CHANNELS?? ? _ ? ?
+#EXTM3U
+#EXTINF:-1,USA:Tlc
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/547.ts
+#EXTINF:-1,USA:SYFY
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/548.ts
+#EXTINF:-1,USA:PBS
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/549.ts
+#EXTINF:-1,USA:NICKELODEON
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/550.ts
+#EXTINF:-1,USA:Nbcsn
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/540.ts
+#EXTINF:-1,USA:NBC
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/551.ts
+#EXTINF:-1,USA:NAT GEO
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/552.ts
+#EXTINF:-1,USA:my9
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/541.ts
+#EXTINF:-1,USA:LIFE TIME
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/553.ts
+#EXTINF:-1,USA:HISTORY
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/554.ts
+#EXTINF:-1,USA:FX
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/555.ts
+#EXTINF:-1,USA:Freeform
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/542.ts
+#EXTINF:-1,USA:FOX NEWS
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/556.ts
+#EXTINF:-1,USA:Fox 43
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/557.ts
+#EXTINF:-1,USA:ESPN
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/558.ts
+#EXTINF:-1,USA:DISCOVERY
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/559.ts
+#EXTINF:-1,USA:CW
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/560.ts
+#EXTINF:-1,USA:COMEDY
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/561.ts
+#EXTINF:-1,USA:CNBC
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/562.ts
+#EXTINF:-1,USA:CBS
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/563.ts
+#EXTINF:-1,USA:BRAVO
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/564.ts
+#EXTINF:-1,USA:Animal
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/565.ts
+#EXTINF:-1,USA:AMC
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/566.ts
 #EXTINF:-1,USA:A&E
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1398.ts
-#EXTINF:-1,USA:ABC
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2260.ts
-#EXTINF:-1,USA:AFN MOVIE
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1397.ts
-#EXTINF:-1,USA:AFN NEWS
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2258.ts
-#EXTINF:-1,USA:AFN PRIME ATLANTIC
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2257.ts
-#EXTINF:-1,USA:AFN PRIME PACIFIC
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2256.ts
-#EXTINF:-1,USA:AFN PULSE
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2255.ts
-#EXTINF:-1,USA:AFN SPECTRUM
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2254.ts
-#EXTINF:-1,USA:AFN SPORTS 2
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2253.ts
-#EXTINF:-1,USA:AFN SPORTS HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1396.ts
-#EXTINF:-1,USA:ANIMAL PLANET HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2259.ts
-#EXTINF:-1,USA:Bein Sports HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1395.ts
-#EXTINF:-1,USA:Bloomberg
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2252.ts
-#EXTINF:-1,USA:Cartoon Network
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2251.ts
-#EXTINF:-1,USA:CBS ACTION
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1393.ts
-#EXTINF:-1,USA:CBS drama
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1390.ts
-#EXTINF:-1,USA:CBS HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1392.ts
-#EXTINF:-1,USA:CBS REALITY
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1391.ts
-#EXTINF:-1,USA:CBSN
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1394.ts
-#EXTINF:-1,USA:CINEMAX 5 StarMax
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2247.ts
-#EXTINF:-1,USA:CINEMAX ACTION HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2250.ts
-#EXTINF:-1,USA:CINEMAX ActionMax East
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2249.ts
-#EXTINF:-1,USA:CINEMAX East
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2248.ts
-#EXTINF:-1,USA:CNN HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2246.ts
-#EXTINF:-1,USA:Comedy Central HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1388.ts
-#EXTINF:-1,USA:CW HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1389.ts
-#EXTINF:-1,USA:DISCCOVERY HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2245.ts
-#EXTINF:-1,USA:DISCCOVERY Science HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2244.ts
-#EXTINF:-1,USA:Discovery Showcase
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1387.ts
-#EXTINF:-1,USA:E
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1386.ts
-#EXTINF:-1,USA:ESPN 1
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1385.ts
-#EXTINF:-1,USA:ESPN 2
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1384.ts
-#EXTINF:-1,USA:FIGHT Network SPORT
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2242.ts
-#EXTINF:-1,USA:FIX V
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1383.ts
-#EXTINF:-1,USA:Food Network
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1379.ts
-#EXTINF:-1,USA:FOX HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1382.ts
-#EXTINF:-1,USA:FOX NEWS HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2243.ts
-#EXTINF:-1,USA:Fox Sport 1
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1378.ts
-#EXTINF:-1,USA:Fox Sport 2
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1377.ts
-#EXTINF:-1,USA:Fox Sport 3
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1376.ts
-#EXTINF:-1,USA:FX HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1380.ts
-#EXTINF:-1,USA:FXX HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1381.ts
-#EXTINF:-1,USA:HBO
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1375.ts
-#EXTINF:-1,USA:HBO Comedy
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1374.ts
-#EXTINF:-1,USA:HBO East
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2241.ts
-#EXTINF:-1,USA:HBO Signature
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1373.ts
-#EXTINF:-1,USA:HBO Zone
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2240.ts
-#EXTINF:-1,USA:HGTV
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1372.ts
-#EXTINF:-1,USA:HISTORY HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2239.ts
-#EXTINF:-1,USA:Max East HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1370.ts
-#EXTINF:-1,USA:MLB Network HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1371.ts
-#EXTINF:-1,USA:NATIONAL GEOGRAPHIC HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1369.ts
-#EXTINF:-1,USA:NBA HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1368.ts
-#EXTINF:-1,USA:NBC SPORT
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1367.ts
-#EXTINF:-1,USA:NFL Channel HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2238.ts
-#EXTINF:-1,USA:NHL Network HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2237.ts
-#EXTINF:-1,USA:Nick HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1366.ts
-#EXTINF:-1,USA:Nickelodeon HD-US
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2236.ts
-#EXTINF:-1,USA:PAC-12 Arizona HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2235.ts
-#EXTINF:-1,USA:PAC-12 Bay Area HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2234.ts
-#EXTINF:-1,USA:PAC-12 Los Angeles HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2233.ts
-#EXTINF:-1,USA:PAC-12 Mountain HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2232.ts
-#EXTINF:-1,USA:PAC-12 Oregon HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2231.ts
-#EXTINF:-1,USA:PAC-12 Washington HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2230.ts
-#EXTINF:-1,USA:PressTV
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2229.ts
-#EXTINF:-1,USA:Showtime
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2227.ts
-#EXTINF:-1,USA:Showtime 2
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2226.ts
-#EXTINF:-1,USA:Starz Cinema
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1365.ts
-#EXTINF:-1,USA:Starz East
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1364.ts
-#EXTINF:-1,USA:Starz Edge
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1363.ts
-#EXTINF:-1,USA:Starz Encore
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2228.ts
-#EXTINF:-1,USA:SyFy HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1362.ts
-#EXTINF:-1,USA:TNT HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1361.ts
-#EXTINF:-1,USA:TVO Kids
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/1360.ts
-#EXTINF:-1,USA:Viceland-US
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2225.ts
-#EXTINF:-1,USA:WWE HD
-http://geantiptv.ddns.net:61555/live/www.genatsat.com/12052017genatsat.com/2224.ts
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/567.ts
+#EXTINF:-1,USA: USA TV
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/568.ts
+#EXTINF:-1,USA: Universal hd
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/546.ts
+#EXTINF:-1,USA: Msnbc
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/543.ts
+#EXTINF:-1,USA: Espn2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/569.ts
+#EXTINF:-1,USA: BBC AMERICA
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/544.ts
+#EXTINF:-1,USA: Abc
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/545.ts
+#EXTINF:-1,WWE NETWORK HD USA
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/3.ts
+#EXTINF:-1,WAPA 2 HD
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/4.ts
+#EXTINF:-1,UNIVISION DEPORTES HD
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/8.ts
+#EXTINF:-1,TyC SPORTS
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/7.ts
+#EXTINF:-1,TDN HD
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/5.ts
+#EXTINF:-1,Real Madrid TV HD
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/6.ts
+#EXTINF:-1,NBA TV HD
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/9.ts
+#EXTINF:-1,Fox Sports HD
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/1.ts
+#EXTINF:-1,ESPN 3 HD
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/2.ts
+#EXTINF:-1,HBO 2 Latino
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/270.ts
+#EXTINF:-1,Univision Deportes USA
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/269.ts
+#EXTINF:-1,EspnPlus Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/396.ts
+#EXTINF:-1,Espn3 Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/397.ts
+#EXTINF:-1,Espn 2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/402.ts
+#EXTINF:-1,Espn
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/401.ts
+#EXTINF:-1,PxTv
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/400.ts
+#EXTINF:-1,Nat Geo Wild
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/362.ts
+#EXTINF:-1,Natgeo Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/367.ts
+#EXTINF:-1,I-Sat Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/393.ts
+#EXTINF:-1,History Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/361.ts
+#EXTINF:-1,GoldenHd Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/382.ts
+#EXTINF:-1,GoldenEdge Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/389.ts
+#EXTINF:-1,Fox Sports 2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/399.ts
+#EXTINF:-1,FoxSports Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/398.ts
+#EXTINF:-1,FoxMovies Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/376.ts
+#EXTINF:-1,FoxClassics Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/378.ts
+#EXTINF:-1,FoxCinema Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/377.ts
+#EXTINF:-1,FoxActions Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/375.ts
+#EXTINF:-1,Fox1 Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/374.ts
+#EXTINF:-1,FilmZone Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/383.ts
+#EXTINF:-1,MTV Live
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/407.ts
+#EXTINF:-1,Mtv Hits
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/412.ts
+#EXTINF:-1,Mtv
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/411.ts
+#EXTINF:-1,Milenio Tv
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/404.ts
+#EXTINF:-1,Lifetime Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/368.ts
+#EXTINF:-1,TeleHits
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/409.ts
+#EXTINF:-1,Tcm Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/394.ts
+#EXTINF:-1,StudioUniversal Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/392.ts
+#EXTINF:-1,Space2 Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/391.ts
+#EXTINF:-1,Space Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/386.ts
+#EXTINF:-1,Sony Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/316.ts
+#EXTINF:-1,Ritmoson
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/414.ts
+#EXTINF:-1,TVE
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/406.ts
+#EXTINF:-1,TNT
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/381.ts
+#EXTINF:-1,TlNovel Op2as
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/354.ts
+#EXTINF:-1,Tiin Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/358.ts
+#EXTINF:-1,Tooncast Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/359.ts
+#EXTINF:-1,Vh1
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/408.ts
+#EXTINF:-1,Wobi Op2
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/373.ts
+#EXTINF:-1,Vh1 Classics
+http://144.217.255.123:8000/live/tecnotv/roxtvplus2017/413.ts
